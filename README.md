@@ -1,4 +1,4 @@
-#PREMIER LEAGUE STATS
+# PREMIER LEAGUE STATS
 
 ⚽ Premier League Team Statistics Dashboard
 An interactive Power BI dashboard built to analyze player and team performance in the Premier League. The dashboard provides a comprehensive overview of key football statistics, enabling users to explore player contributions, disciplinary records, and team-specific insights through dynamic filters and visualizations.
