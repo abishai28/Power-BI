@@ -1,6 +1,7 @@
 # Power BI Dashboards
 
 ⚽ Premier League Team Statistics Dashboard
+
 An interactive Power BI dashboard built to analyze player and team performance in the Premier League. The dashboard provides a comprehensive overview of key football statistics, enabling users to explore player contributions, disciplinary records, and team-specific insights through dynamic filters and visualizations.
 
 🎯Project Objective: Develop an interactive Power BI dashboard that transforms raw Premier League player statistics into meaningful visual insights, allowing users to analyse player performance, disciplinary records, and team-level metrics through dynamic filtering and intuitive visualisations.
